@@ -3,10 +3,12 @@
     "id": "com.s101427.listing",
     "author": {
         "name": "101427"
+        "url": "https://github.com/ShumaiRetriever"
     },
     "description": "101427によって開発されたツール一覧です。",
     "url": "https://ShumaiRetriever.github.io/101427-VPM-Repository/index.json",
     "githubRepos": [
+        ShumaiRetriever/S101427NailTool
     ],
     "packages": []
 }
