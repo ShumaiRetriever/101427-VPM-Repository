@@ -1,28 +1,14 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+    "name": "101427's VPM Packages",
+    "id": "com.s101427.listing",
+    "author": {
+        "name": "101427",
+        "url": "https://github.com/ShumaiRetriever"
     },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
+    "description": "101427によって開発されたツール一覧です。",
+    "url": "https://ShumaiRetriever.github.io/101427-VPM-Repository/index.json",
+    "githubRepos": [
+        "ShumaiRetriever/S101427NailTool"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages": []
 }
